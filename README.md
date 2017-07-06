@@ -10,10 +10,9 @@ DATABASE_URL = <firebase-database-url>
 PROJECT_ID = <firebase-project-id>
 STORAGE_BUCKET = <firebase-storage-bucket>
 MESSAGING_SENDER_ID = <firebase-sender-id>
-
--[ ] Replace the keys with your firebase credentials
-
 ```
+- [ ] Replace the keys with your firebase credentials
+
 To install the depedencies
 ```
 npm install
